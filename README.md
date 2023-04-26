@@ -34,9 +34,9 @@ Digital Controller
 
 Bike travelling in straight line
 
-Bike balancing on tilted platform
-https://user-images.githubusercontent.com/39654202/234715776-53c052a2-c550-47d6-ba14-26a02ea32d71.mp4
+![tilt test](https://user-images.githubusercontent.com/39654202/234719108-fd4b4d5a-34b6-451f-a3e5-1afe4bcaff18.gif)
 
+Bike balancing on tilted platform
 
 ![push test](https://user-images.githubusercontent.com/39654202/234717441-b929a888-e681-40c3-bcae-767d4b81f762.gif)
 
