@@ -36,5 +36,5 @@ Bike travelling in straight line
 https://user-images.githubusercontent.com/39654202/234715776-53c052a2-c550-47d6-ba14-26a02ea32d71.mp4
 Bike balancing on tilted platform
 
-https://user-images.githubusercontent.com/39654202/234716402-3667d463-9aad-4056-a8c3-dfaa6b74c26e.mp4
+https://user-images.githubusercontent.com/39654202/234716659-5eeb8623-c407-41b0-a09a-2a4db28d503c.mp4
 Push Test
