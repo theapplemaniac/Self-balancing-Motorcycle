@@ -28,4 +28,13 @@ Motor Components
 ![Digital Controller](https://user-images.githubusercontent.com/39654202/234714342-b640c5d9-35b7-44da-b989-026fc56273ee.jpg)
 Digital Controller
 
-## Photos:
+## Videos:
+
+https://user-images.githubusercontent.com/39654202/234715746-353a2615-bf28-4f79-bd09-56a381744799.mp4
+Bike travelling in straight line
+
+https://user-images.githubusercontent.com/39654202/234715776-53c052a2-c550-47d6-ba14-26a02ea32d71.mp4
+Bike balancing on tilted platform
+
+https://user-images.githubusercontent.com/39654202/234716402-3667d463-9aad-4056-a8c3-dfaa6b74c26e.mp4
+Push Test
