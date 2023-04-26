@@ -29,13 +29,15 @@ Motor Components
 Digital Controller
 
 ## Videos:
+
+![straight line](https://user-images.githubusercontent.com/39654202/234718758-80c526ac-1e8c-4aeb-84d8-73a683418ffa.gif)
 Bike travelling in straight line
-https://user-images.githubusercontent.com/39654202/234715746-353a2615-bf28-4f79-bd09-56a381744799.mp4
 
 Bike balancing on tilted platform
 https://user-images.githubusercontent.com/39654202/234715776-53c052a2-c550-47d6-ba14-26a02ea32d71.mp4
 
-Push Test
+
 ![push test](https://user-images.githubusercontent.com/39654202/234717441-b929a888-e681-40c3-bcae-767d4b81f762.gif)
+Push Test
 
 
