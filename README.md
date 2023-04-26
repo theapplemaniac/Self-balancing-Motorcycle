@@ -28,6 +28,9 @@ Motor Components
 ![Digital Controller](https://user-images.githubusercontent.com/39654202/234714342-b640c5d9-35b7-44da-b989-026fc56273ee.jpg)
 Digital Controller
 
+![balancing controller](https://user-images.githubusercontent.com/39654202/234719275-452c4ce7-a162-4d87-a8f9-ffec911956bd.jpg)
+Balancing Controller
+
 ## Videos:
 
 ![straight line](https://user-images.githubusercontent.com/39654202/234718758-80c526ac-1e8c-4aeb-84d8-73a683418ffa.gif)
