@@ -11,12 +11,12 @@ This project focuses on designing, testing, and implementing an autonomous or re
 
 ## Components:
 - Self-balancing Motorcycle Kit
-- CAD components (provided in the lab course files in the coursework_group directory)
-- Simulink starter models (provided in the lab course files in the coursework_group directory)
+- CAD files
+- Simulink starter models
 - Motorcycle hardware for testing and demonstration purposes
 
 ## Software Requirements
-- MATLAB and Simulink (latest version recommended)
+- MATLAB and Simulink
 - Arduino IDE
 - Arduino support package for MATLAB and Simulink
 
