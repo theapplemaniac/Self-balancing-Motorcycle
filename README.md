@@ -36,5 +36,6 @@ Bike balancing on tilted platform
 https://user-images.githubusercontent.com/39654202/234715776-53c052a2-c550-47d6-ba14-26a02ea32d71.mp4
 
 Push Test
-https://user-images.githubusercontent.com/39654202/234716659-5eeb8623-c407-41b0-a09a-2a4db28d503c.mp4
+![push test](https://user-images.githubusercontent.com/39654202/234717441-b929a888-e681-40c3-bcae-767d4b81f762.gif)
+
 
