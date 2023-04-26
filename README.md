@@ -1,5 +1,5 @@
 # Self-balancing Motorcycle
- Control System Design for a Self-balancing Motorcycle
+ Control System Design for a Self-balancing Motorcycle in MATLAB
 
 This project focuses on designing, testing, and implementing an autonomous or remote control system for a self-balancing motorcycle using the Arduino Engineering Kit. The aim is to create a digital motor controller that effectively balances and steers the motorcycle, which can be demonstrated on the provided hardware.
 
